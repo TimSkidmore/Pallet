@@ -9,7 +9,7 @@
             <p class="lead">This application was developed to visualise and calculate different options of stacking boxes on pallet.</p>
             <h3>Used technologies:</h3>
             <ul>
-                <li>C# with ASP.NET Core 2.1 (+ xUnit for Unit Tests)</li>
+                <li>C# with ASP.NET Core 2.1 (+ xUnit)</li>
                 <li>JavaScript (Three.js, jQuery)</li>
                 <li>CSS (Bootstrap)</li>
             </ul>
